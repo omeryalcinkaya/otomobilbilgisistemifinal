@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "77794827945",
+    "project_id": "otomobilbilgi-c8b1a",
+    "storage_bucket": "otomobilbilgi-c8b1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77794827945:android:b344e8669a5532285113b8",
+        "android_client_info": {
+          "package_name": "com.example.otomobil_bilgi_sistemi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77794827945-10hp8hbiovhhhcs2d2oqt8e4o6cfoihr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otomobil_bilgi_sistemi",
+            "certificate_hash": "baecdb5bbbb935c1ba2953209a5fe29e379fae1d"
+          }
+        },
+        {
+          "client_id": "77794827945-sj55hmvdjsup2ojs8vu133a4ccul090l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV4DDk4pm2jgf_SxE1XfZIVjyJu8cVBm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77794827945-sj55hmvdjsup2ojs8vu133a4ccul090l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
